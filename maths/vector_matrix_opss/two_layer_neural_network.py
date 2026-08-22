@@ -24,8 +24,6 @@ for i in range(len(Z)):
             C[i][j] += Z[i][k]*W[k][j]
 
 
-
-
 print(C)
 
 bias = [1,2,3]
